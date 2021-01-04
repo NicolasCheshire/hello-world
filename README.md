@@ -1,6 +1,6 @@
 # hello-world
 
-simple example to use Raspberry to link an LED
+simple example to use Raspberry to blink an LED
 
 use:
 
